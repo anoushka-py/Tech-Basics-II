@@ -3,7 +3,7 @@
 ## 13.10.26
 ### In our first session of Tech Basics II, we got a general introduction to physical computing. We took a look at our utility starter kit and even built our first basic circuit.
 
-![Utility Kit](https://ibb.co/V0DC1vfQ.jpg)
+![Utility Kit] (https://i.ibb.co/DPkMJ708/IMG-8117.jpg)
 
 ## What I Learnt :
 - Basic code structure of Arduino Sketch (setup(), loop(), pinMode() etc)
