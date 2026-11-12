@@ -18,4 +18,4 @@
 ### Parallel Circuit : When you need to ever device to receive full voltage
 
 ## Circuits we built in class :
-![Circuit 1](https://i.ibb.co/kVF5TsKq/IMG-8191.jpg)
+<img src="Pictures/circuit1.jpg" alt="Circuit 1" width="300">
