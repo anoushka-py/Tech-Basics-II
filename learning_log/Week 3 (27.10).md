@@ -4,15 +4,18 @@
 
 ## ***A deeper look at analogWrite() and analogRead(). New components including Tilt Switch, Potentiometer and Photoresistor.***
 - analogWrite() : PWM (Pulse-Width Modulation, a digital method of controlling analog power by rapidly switching. signal on and off)
-- 0-255 "translation", mapping betwee 0v and 5v (8bits)
+- 0-255 "translation", mapping between 0v and 5v (8bits)
 - Popular technique in dimming LEDs, controlling motor speed, etc.
 - Duty Cycle : the promotion of "on-time" in each cycle
 - Oscilloscope : A device that measures voltages ad displays them graphically.
+<img src="Pictures/Oscilloscope.png" alt="Oscilloscope" width="250">
 
 ## ***Analog vs Digital Signals***
-- *Analog signals* are continuous and vary smoothly over time
-- *Digital signals* are discrete and usually represented by binary states (01)
+<img src="Pictures/AnalogVSDigital.png" alt="AnalogVsDigital" width="250">
 
+*Analog signals* are continuous and vary smoothly over time. *Digital signals* are discrete and usually represented by binary states (01)
+
+<img src="Pictures/ArduinoSetUp.png" alt="ArduinoUNO" width="250">
 
 - Analog pins can also be used for digital output
 - Reset button doesn't delete code, it returns in
@@ -29,6 +32,7 @@
 - Both Digital and Analog Pins
 
 ## ***Tilt Switch***
+<img src="Pictures/TiltSwitch.png" alt="TiltSwitch" width="250">
 - A component that can detect the tilting of an object
 
 ## ***Serial Print***
@@ -50,5 +54,9 @@
 - You can set the AREF (Analog Reference) pin to something lower than 5V for higher resolution for low voltage components
 ## ***Potentiometer***
 - Adjustable Resistor / Most common use : Volume Adjustment
+<img src="Pictures/Potentiometer.png" alt="Potentiometer" width="250">
+
 ## ***Photoresistor***
 - Also knows as "Light-Dependent Resistor(LDR)", a light-sensitive variable resistor whos resistance decreases as the intensity of light hitting surfaces increases
+- 
+<img src="Pictures/Photoresistor.png" alt="Photoresistor" width="250">
