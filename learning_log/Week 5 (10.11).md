@@ -21,6 +21,8 @@
 - Plotters (x,y axis to hold a pen for instance)
 - Can translate this servo movement to create robotics
 
+  <img src="Pictures/ServoUsages1.png" alt="Robotics1" width="350">   <img src="Pictures/ServoUsages2.png" alt="Robotics2" width="200">
+
 # Servo Movement Exercises 
 
 <img src="Pictures/ServoCircuit1.JPG" alt="Servo1" width="200"> <img src="Pictures/ServoCircuit2.JPG" alt="Servo2" width="200"> <img src="Pictures/ServoCircuit3.JPG" alt="Servo3" width="200">
