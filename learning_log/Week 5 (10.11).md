@@ -27,5 +27,6 @@
 
 <img src="Pictures/ServoCircuit1.JPG" alt="Servo1" width="200"> <img src="Pictures/ServoCircuit2.JPG" alt="Servo2" width="200"> <img src="Pictures/ServoCircuit3.JPG" alt="Servo3" width="200">
 
+Definitely one of the most fun sessions for me so far! It was really cool to get some movement going through our Servo Motor (compared to LEDs, which are cool to look at but don't "do" much more). The exercise we were tasked with at the end was a bit challenging to figure out, but once we got the code in Arduino down, it was very satisfying :)
 
 
