@@ -58,5 +58,5 @@
 
 ## ***Photoresistor***
 - Also knows as "Light-Dependent Resistor(LDR)", a light-sensitive variable resistor whos resistance decreases as the intensity of light hitting surfaces increases
-- 
+
 <img src="Pictures/Photoresistor.png" alt="Photoresistor" width="250">
