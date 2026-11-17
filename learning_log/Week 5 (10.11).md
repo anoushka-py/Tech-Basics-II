@@ -13,7 +13,8 @@
  - The first step was importing the servo library. 'myservo' declared an object of class servo.
  - If we were to restart our code at a different position on the Servo, it would move differently.
  - analogRead(), map()
-<img src="Pictures/Arduino1.png" alt="Code1" width="150">
+
+<img src="Pictures/Arduino1.png" alt="Code1" width="250"> <img src="Pictures/Arduino2.png" alt="Code2" width="250"> <img src="Pictures/Arduino3.png" alt="Code3" width="200">
 
 
 ## ***Servo usages***
