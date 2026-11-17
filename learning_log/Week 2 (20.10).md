@@ -1,6 +1,6 @@
 # Week 2
 
-### In preperation for week 2, i borrowed up my own utility kit from the digi lab. In our session, we covered a few new really interesting topics.
+### In preparation for week 2, i borrowed up my own utility kit from the digi lab. In our session, we covered a few new really interesting topics.
 
 ## What we learnt :
 - Resistors and their color coding
@@ -10,7 +10,7 @@
 - In a direct current (DC) circuit, the negative (-) terminal is often designated as the "ground"
 - Why do we use 220 resistor for LED? : For current limiting = <15mA : safe current for common LEDS, a 330 would also work, but light would be dimmer
 - Ohm's Law vs Power Law
-- Dirent current vs Alternating current
+- Direct current vs Alternating current
 - Common Voltage for DC : for microcontrollers (3.3v, 5v) or 9v and 12v
 - When to use what :
   
@@ -18,4 +18,4 @@
 ### Parallel Circuit : When you need to ever device to receive full voltage
 
 ## Circuits we built in class :
-<img src="Pictures/circuit1.JPG" alt="Circuit 1" width="300">
+<img src="Pictures/circuit1.JPG" alt="Circuit 1" width="300"> <img src="Pictures/circuit2.JPG" alt="Circuit 2" width="300">
