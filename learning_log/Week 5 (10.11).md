@@ -22,3 +22,8 @@
 - Can translate this servo movement to create robotics
 
 # Servo Movement Exercises 
+
+<img src="Pictures/ServoCircuit1.JPG" alt="Servo1" width="200"> <img src="Pictures/ServoCircuit2.JPG" alt="Servo2" width="200"> <img src="Pictures/ServoCircuit3.JPG" alt="Servo3" width="200">
+
+
+
