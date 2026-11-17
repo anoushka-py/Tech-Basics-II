@@ -16,5 +16,21 @@
 - Push buttons need a pull-up or pull-down resistor, otherwise pin reads random
 - Multimeter is useful debugging tool
 
-- 
+## Exercises 
+(Photo credits to Annika! <3)
+### *Exercise 1 - Passive Buzzer*
+
+<img src="Pictures/ButtonEx1.png" alt="Exercise1" width="200">
+
+### *Exercise 3 - Ultrasonic Distance Sensor*
+
+<img src="Pictures/ButtonEx3.png" alt="Exercise3" width="200">
+
+### *Exercise 4 - Button (Pull-Down)*
+
+<img src="Pictures/ButtonEx4.png" alt="Exercise4" width="200">
+
+### *Exercise 4 - Buttons + Buzzer*
+
+<img src="Pictures/ButtonEx5.png" alt="Exercise4" width="200">
 
