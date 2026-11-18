@@ -5,7 +5,7 @@
 
 <img src="Pictures/UtilityKit.JPG" alt="UtilityKit" width="250">
 
-## What I Learnt :
+## ***What I Learnt*** :
 - Basic code structure of Arduino Sketch (setup(), loop(), pinMode() etc)
 - setup() runs once, loop() runs indefinitely
 - pinMode() sets a pin (input/output)
